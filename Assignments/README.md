@@ -1,3 +1,6 @@
 ## Assignments
 | Folder | Assignment | Description | Due|
  | ------------|------------|------------|------------|
+ | [A01](https://github.com/rugbyprof/4443-Mobile-Apps/tree/master/Assignments/A01) | [ Assignment 1 ](https://github.com/rugbyprof/4443-Mobile-Apps/tree/master/Assignments/A01) | [ Getting Setup](https://github.com/rugbyprof/4443-Mobile-Apps/tree/master/Assignments/A01) | [06-06-2022 (Monday @ 12:30 p.m.)](https://github.com/rugbyprof/4443-Mobile-Apps/tree/master/Assignments/A01) |
+ | [A02](https://github.com/rugbyprof/4443-Mobile-Apps/tree/master/Assignments/A02) | [ Assignment 2 ](https://github.com/rugbyprof/4443-Mobile-Apps/tree/master/Assignments/A02) | [ Github Setup](https://github.com/rugbyprof/4443-Mobile-Apps/tree/master/Assignments/A02) | [06-06-2022 (Monday @ 12:30 p.m.)](https://github.com/rugbyprof/4443-Mobile-Apps/tree/master/Assignments/A02) |
+ | [A03](https://github.com/rugbyprof/4443-Mobile-Apps/tree/master/Assignments/A03) | [ Assignment 3 ](https://github.com/rugbyprof/4443-Mobile-Apps/tree/master/Assignments/A03) | [ Dev Environment](https://github.com/rugbyprof/4443-Mobile-Apps/tree/master/Assignments/A03) | [06-06-2022 (Monday @ 12:30 p.m.)](https://github.com/rugbyprof/4443-Mobile-Apps/tree/master/Assignments/A03) |
